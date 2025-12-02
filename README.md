@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-Welcome to my Cybersecurity / IT Gihub Portfolio. Here you will discover various projects that highlight my technical abilities and passion for protecting digital systems. 
+Welcome to my Cybersecurity / IT Gihub Portfolio. Here you will discover various projects that highlight my technical abilities and passion for networking and protecting digital systems. 
 
 ## About Me
 
