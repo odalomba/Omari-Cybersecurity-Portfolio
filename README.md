@@ -17,7 +17,7 @@ I’m a motivated IT and Cybersecurity professional, a graduate of the UNC Charl
   - [Penetration Test Report](https://docs.google.com/document/d/18YwmhyRvnr22mQVcYzKGxvw6rcK6A5b-WrH9FPjThpU/edit?tab=t.0)
 - <b> Defensive Monotoring and Threat Detection </b>
   - [Defensive Security (Splunk)](https://docs.google.com/presentation/d/1bmUWcOTWq3zfS8MzULgFFhNEnZWZ380uRalZQOQmJ1I/edit?slide=id.g630a814dc5_0_53#slide=id.g630a814dc5_0_53)
-  - [Phishing Incident Response] (https://github.com/odalomba/Omari-IT-Portfolio/blob/main/Rangeforce_labs/Malware_Incident_response_challenge.md)
+  - [Phishing Incident Response](https://github.com/odalomba/Omari-IT-Portfolio/blob/main/Rangeforce_labs/Malware_Incident_response_challenge.md)
 - <b>Keylogger Project</b>
   - [Keylogger using python project](https://docs.google.com/presentation/d/1SOl5JqZNzcJpuHoxMjamw7DZUCtWgsDkEZhMY9vAc8E/edit?slide=id.p#slide=id.p)
 - <b>System Administration Projects</b>
