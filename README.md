@@ -20,8 +20,9 @@ I’m a motivated IT and Cybersecurity professional, a graduate of the UNC Charl
   - [Phishing Incident Response](https://github.com/odalomba/Omari-IT-Portfolio/blob/main/Rangeforce_labs/Malware_Incident_response_challenge.md)
 - <b>Keylogger Project</b>
   - [Keylogger using python project](https://docs.google.com/presentation/d/1SOl5JqZNzcJpuHoxMjamw7DZUCtWgsDkEZhMY9vAc8E/edit?slide=id.p#slide=id.p)
-- <b>System Administration Projects</b>
-  - [Helpdesk Delegation Lab](https://github.com/odalomba/Omari-Cybersecurity-Portfolio/blob/main/System%20Administration/Helpdesk%20_Delegation_%20Lab.pdf)
+- <b>Information Technology Projects</b>
+  - [System Adminstration Delegation Lab](https://github.com/odalomba/Omari-Cybersecurity-Portfolio/blob/main/System%20Administration/Helpdesk%20_Delegation_%20Lab.pdf)
+  - [Helpdesk Troubleshooting and Resolution](https://github.com/odalomba/Omari-IT-Portfolio/blob/main/IT%20Helpdesk%20Ticket%20Scenarios%20-%20Troubleshooting%20%26%20Resolutions.pdf)
 
 <h2> Connect with me and Resume </h2>
 
