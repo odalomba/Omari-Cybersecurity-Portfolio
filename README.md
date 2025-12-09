@@ -10,10 +10,10 @@ I’m a motivated IT and Cybersecurity professional, a graduate of the UNC Charl
 
 ## IT & Cybersecurity Projects:</h2>
 - <b> CyberSecurity Bootcamp Projects </b>
-  - [Baseline Security and Access Configuration](https://github.com/odalomba/Omari-Cybersecurity-Portfolio/blob/main/Linux/Part%201%20Hardening%20a%20Linux%20Server%20.pdf)
-  - [Hardening System Configuration](https://github.com/odalomba/Omari-Cybersecurity-Portfolio/blob/main/Linux/Part%202%20Hardening%20system%20configurations%20.pdf)
-  - [Scripting and Scheduling Tasks](https://github.com/odalomba/Omari-Cybersecurity-Portfolio/blob/main/Linux/Part%203%20Scripting%20and%20Scheduling%20Tasks%20.pdf)
-  - [Penetration Test Report](https://docs.google.com/document/d/18YwmhyRvnr22mQVcYzKGxvw6rcK6A5b-WrH9FPjThpU/edit?tab=t.0)
+  - [Linux Part 1: Baseline Security and Access Configuration](https://github.com/odalomba/Omari-Cybersecurity-Portfolio/blob/main/Linux/Part%201%20Hardening%20a%20Linux%20Server%20.pdf)
+  - [Linux Part 2: Hardening System Configuration](https://github.com/odalomba/Omari-Cybersecurity-Portfolio/blob/main/Linux/Part%202%20Hardening%20system%20configurations%20.pdf)
+  - [Linux Part 3: Scripting and Scheduling Tasks](https://github.com/odalomba/Omari-Cybersecurity-Portfolio/blob/main/Linux/Part%203%20Scripting%20and%20Scheduling%20Tasks%20.pdf)
+  - [Penetration Test](https://docs.google.com/document/d/18YwmhyRvnr22mQVcYzKGxvw6rcK6A5b-WrH9FPjThpU/edit?tab=t.0)
   - [Defensive Security (Splunk)](https://docs.google.com/presentation/d/1bmUWcOTWq3zfS8MzULgFFhNEnZWZ380uRalZQOQmJ1I/edit?slide=id.g630a814dc5_0_53#slide=id.g630a814dc5_0_53)
   - [Keylogger using python project](https://docs.google.com/presentation/d/1SOl5JqZNzcJpuHoxMjamw7DZUCtWgsDkEZhMY9vAc8E/edit?slide=id.p#slide=id.p)
 - <b>Information Technology Personal Projects</b>
