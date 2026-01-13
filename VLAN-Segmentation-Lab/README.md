@@ -113,7 +113,7 @@ firewall rules.
   <li>Firewall rule counters and logs confirmed enforcement</li>
 </ul>
 
-<img src="validation/client-blocked-pfsense.png" alt="Client VLAN Blocked from pfSense">
+<img src="https://github.com/odalomba/Omari-IT-Portfolio/blob/main/VLAN-Segmentation-Lab/validation/Client-Blocked-pfsense.png" alt="Client VLAN Blocked from pfSense">
 <img src="validation/management-access-pfsense.png" alt="Management VLAN pfSense Access">
 <img src="validation/firewall-log-blocked.png" alt="Firewall Logs Showing Blocked Traffic">
 
