@@ -29,7 +29,7 @@ as the Layer 3 firewall and router.
   <li>Multiple VLANs routed and enforced by pfSense</li>
 </ul>
 
-<img src="diagrams/vlan-topology.png" alt="VLAN Network Topology Diagram">
+<img src="https://github.com/odalomba/Omari-IT-Portfolio/blob/main/VLAN-Segmentation-Lab/validation/Pfsense-Console.png" alt="VLAN Network Topology Diagram">
 
 <hr>
 
