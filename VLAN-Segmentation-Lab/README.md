@@ -6,7 +6,7 @@
 <p>
 This project demonstrates VLAN-based network segmentation using
 pfSense and Proxmox VE to separate client, server,
-and management traffic. The goal was to enforce <strong>least-privilege access</strong>,
+and management traffic. The goal was to enforce least-privilege access,
 prevent lateral movement, and validate firewall controls through real testing.
 </p>
 
