@@ -115,7 +115,7 @@ firewall rules.
 
 <img src="https://github.com/odalomba/Omari-IT-Portfolio/blob/main/VLAN-Segmentation-Lab/validation/Client-Blocked-pfsense.png" alt="Client VLAN Blocked from pfSense">
 <img src="https://github.com/odalomba/Omari-IT-Portfolio/blob/main/VLAN-Segmentation-Lab/validation/Management-SSH-Server.png" alt="Management VLAN-Sever SSH Access">
-<img src="validation/firewall-log-blocked.png" alt="Firewall Logs Showing Blocked Traffic">
+<img src="https://github.com/odalomba/Omari-IT-Portfolio/blob/main/VLAN-Segmentation-Lab/validation/Firewall-rules-blocked.png" alt="Firewall Logs Showing Blocked Traffic">
 
 <hr>
 
