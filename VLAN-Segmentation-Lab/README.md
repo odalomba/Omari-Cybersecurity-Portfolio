@@ -89,7 +89,7 @@ firewall rules.
   <li>Restricted Internet access</li>
 </ul>
 
-<img src="firewall-rules/vlan20-client-rules.png" alt="Client VLAN Firewall Rules">
+<img src="https://github.com/odalomba/Omari-IT-Portfolio/blob/main/VLAN-Segmentation-Lab/firewall-rules/VLAN20-Clients-Rules.png" alt="Client VLAN Firewall Rules">
 <img src="firewall-rules/vlan30-management-rules.png" alt="Management VLAN Firewall Rules">
 
 <hr>
