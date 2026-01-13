@@ -169,9 +169,5 @@ practice.
   <li>Site-to-site or multi-firewall designs</li>
 </ul>
 
-<hr>
-
-<p class="status">Lab Status: COMPLETE ✅</p>
-
 </body>
 </html>
