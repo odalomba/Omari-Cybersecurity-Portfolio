@@ -12,7 +12,9 @@ prevent lateral movement, and validate firewall controls through real testing.
 
 <p>
 This lab simulates how segmented networks are designed and secured in
-<strong>enterprise IT infrastructure environments</strong>.
+enterprise IT infrastructure environments.
+  
+<strong> Security Notice: All IP addresses, hostnames, and identifiers in this repository are sanitized and do not reflect live or accessible systems. This environment is isolated and used strictly for learning and documentation.</strong>
 </p>
 
 <hr>
