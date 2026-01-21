@@ -32,6 +32,15 @@ I’m especially interested in hybrid infrastructure environments, where on-prem
 </ul>
 
 
+## How These Projects Apply to Real-World Environments
+
+- Network segmentation reduces lateral movement and limits breach impact
+- Firewall policy enforcement supports compliance and least-privilege access
+- Incident response workflows minimize downtime and credential exposure
+- Linux hardening improves system reliability and security posture
+- Operational labs reflect day-to-day IT support and escalation workflows
+
+
 
 <h2> Connect with me and Resume </h2>
 
