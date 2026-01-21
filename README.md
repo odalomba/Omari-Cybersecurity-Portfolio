@@ -24,11 +24,11 @@ I’m especially interested in hybrid infrastructure environments, where on-prem
 
 <ul>
   <li><a href="https://github.com/odalomba/Omari-IT-Portfolio/tree/main/VLAN-Segmentation-Lab"><strong>Network Segmentation &amp; Firewall Enforcement</strong></a> (pfSense + Proxmox)</li>
-  <li><a href="./phishing-incident-response-playbook"><strong>Phishing Incident Response &amp; Containment Playbook</strong></a></li>
-  <li><a href="./linux-server-hardening"><strong>Linux Server Hardening &amp; Access Control</strong></a></li>
+  <li><a href="https://github.com/odalomba/Omari-IT-Portfolio/blob/main/Rangeforce_labs/Malware_Incident_response_challenge.md"><strong>Phishing Incident Response &amp; Containment Playbook</strong></a></li>
+  <li><a href="https://github.com/odalomba/Omari-IT-Portfolio/tree/main/Linux"><strong>Linux Server Hardening &amp; Access Control</strong></a></li>
   <li><a href="./task-automation-monitoring"><strong>Scheduled Task Automation &amp; System Monitoring</strong></a></li>
-  <li><a href="./system-admin-delegation"><strong>IT Operations: System Administration Delegation</strong></a></li>
-  <li><a href="./helpdesk-troubleshooting"><strong>Helpdesk Incident Troubleshooting &amp; Resolution</strong></a></li>
+  <li><a href="https://github.com/odalomba/Omari-IT-Portfolio/blob/main/System%20Administration/Helpdesk%20_Delegation_%20Lab.pdf"><strong>IT Operations: System Administration Delegation</strong></a></li>
+  <li><a href="https://github.com/odalomba/Omari-IT-Portfolio/blob/main/IT%20Helpdesk%20Ticket%20Scenarios%20-%20Troubleshooting%20%26%20Resolutions.pdf"><strong>Helpdesk Incident Troubleshooting &amp; Resolution</strong></a></li>
 </ul>
 
 
