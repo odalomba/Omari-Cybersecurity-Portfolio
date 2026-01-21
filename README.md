@@ -20,16 +20,18 @@ My background includes building and securing on-prem infrastructure using virtua
 
 I’m especially interested in hybrid infrastructure environments, where on-prem networking, cloud platforms, and security controls intersect to support reliable and secure business operations.
 
+<h2>Infrastructure &amp; Security Projects</h2>
 
-## Infrastrcture & Security Projects:</h2>
-- <b> Bootcamp Projects </b>
-  - [Linux Part 1: Baseline Security and Access Configuration](https://github.com/odalomba/Omari-Cybersecurity-Portfolio/blob/main/Linux/Part%201%20Hardening%20a%20Linux%20Server%20.pdf)
-  - [Linux Part 2: Hardening System Configuration](https://github.com/odalomba/Omari-Cybersecurity-Portfolio/blob/main/Linux/Part%202%20Hardening%20system%20configurations%20.pdf)
-  - [Linux Part 3: Scripting and Scheduling Tasks](https://github.com/odalomba/Omari-Cybersecurity-Portfolio/blob/main/Linux/Part%203%20Scripting%20and%20Scheduling%20Tasks%20.pdf)
-- <b> IT Operations & Support Labs </b>
-  - [System Adminstration Delegation Lab](https://github.com/odalomba/Omari-Cybersecurity-Portfolio/blob/main/System%20Administration/Helpdesk%20_Delegation_%20Lab.pdf)
-  - [Helpdesk Troubleshooting and Resolution](https://github.com/odalomba/Omari-IT-Portfolio/blob/main/IT%20Helpdesk%20Ticket%20Scenarios%20-%20Troubleshooting%20%26%20Resolutions.pdf)
-  - [Phishing Incident Response](https://github.com/odalomba/Omari-IT-Portfolio/blob/main/Rangeforce_labs/Malware_Incident_response_challenge.md)
+<ul>
+  <li><a href="https://github.com/odalomba/Omari-IT-Portfolio/tree/main/VLAN-Segmentation-Lab"><strong>Network Segmentation &amp; Firewall Enforcement</strong></a> (pfSense + Proxmox)</li>
+  <li><a href="./phishing-incident-response-playbook"><strong>Phishing Incident Response &amp; Containment Playbook</strong></a></li>
+  <li><a href="./linux-server-hardening"><strong>Linux Server Hardening &amp; Access Control</strong></a></li>
+  <li><a href="./task-automation-monitoring"><strong>Scheduled Task Automation &amp; System Monitoring</strong></a></li>
+  <li><a href="./system-admin-delegation"><strong>IT Operations: System Administration Delegation</strong></a></li>
+  <li><a href="./helpdesk-troubleshooting"><strong>Helpdesk Incident Troubleshooting &amp; Resolution</strong></a></li>
+</ul>
+
+
 
 <h2> Connect with me and Resume </h2>
 
