@@ -1,16 +1,27 @@
-## Omari Dalomba - IT Infrastructure & Networking Portfolio 
+## Omari Dalomba - IT Infrastructure, Networking & Security Portfolio  
 
 ## Welcome!
 
-Welcome to my IT Infrastrcuture portfolio. This repository showcases hands-on projects focused on system adminstration, networking, virtualization, and infrastructure operations. These projects reflect my interest in building, mainataing, and troubleshooting reliable infrastructure enviroments. 
+This portfolio showcases hands-on IT infrastructure and security projects that simulate real-world production environments. The focus is on networking, systems administration, security controls, and operational troubleshooting.
+
+These projects demonstrate how I approach infrastructure from a business perspective:
+- Reducing risk
+- Improving reliability
+- Enforcing access controls
+- Supporting secure operations accross on-prem and cloud enviroments 
+
+
 
 ## About Me
 
-I’m an entry-level IT infrastructure professional with a strong foundation in networking, systems administration, and on-prem infrastructure. I’ve built hands-on experience through homelab projects and structured technical training, focusing on how servers, networks, and systems are designed, deployed, and maintained.
+I’m an IT infrastructure and networking professional with hands-on experience in system administration, network segmentation, firewall policy design, and security operations.
 
-I’m also interested in cloud infrastructure and hybrid environments, and I view cloud platforms as an extension of core infrastructure concepts such as networking, access control, and system reliability. I enjoy learning how scalable, maintainable systems are built across both on-prem and cloud environments, and I’m focused on continuing to grow within infrastructure, networking, and cloud operations roles.
+My background includes building and securing on-prem infrastructure using virtualization and firewall technologies, as well as responding to security incidents using structured incident response workflows.
 
-## Infrastrcture & Networking Projects:</h2>
+I’m especially interested in hybrid infrastructure environments, where on-prem networking, cloud platforms, and security controls intersect to support reliable and secure business operations.
+
+
+## Infrastrcture & Security Projects:</h2>
 - <b> Bootcamp Projects </b>
   - [Linux Part 1: Baseline Security and Access Configuration](https://github.com/odalomba/Omari-Cybersecurity-Portfolio/blob/main/Linux/Part%201%20Hardening%20a%20Linux%20Server%20.pdf)
   - [Linux Part 2: Hardening System Configuration](https://github.com/odalomba/Omari-Cybersecurity-Portfolio/blob/main/Linux/Part%202%20Hardening%20system%20configurations%20.pdf)
